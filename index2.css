@@ -1,0 +1,45 @@
+#metodNames{
+  color:#BA180B;
+  font-size:25px;
+}
+p{
+  font-size:20px;
+  color: black ;
+}
+div{
+  font-size:25px;
+}
+
+.colorp{
+  background-color:#FFC300 ;
+}
+
+#toggleButton{
+  width: 10px;
+  background-color:#C73E33  ;
+}
+
+#addButton{
+  width: 150px;
+  background-color: orange;
+}
+
+#removeButton{
+  width: 150px;
+  background-color: red;
+}
+
+#replaceButton{
+  width: 150px;
+  background-color: yellow;
+}
+
+#itemButton{
+  width: 150px;
+  background-color: blueviolet;
+}
+
+#containsButton{
+  width: 150px;
+  background-color: cadetblue;
+}
